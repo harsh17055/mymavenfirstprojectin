@@ -1,4 +1,4 @@
-package com.Swaaping;
+package com.angral.Swaaping;
 
 import java.util.Scanner;
 

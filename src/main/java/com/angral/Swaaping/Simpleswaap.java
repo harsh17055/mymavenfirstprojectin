@@ -1,4 +1,4 @@
-package com.Swaaping;
+package com.angral.Swaaping;
 
 public class Simpleswaap {
     public static void main(String[] args) {

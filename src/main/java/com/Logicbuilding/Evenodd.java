@@ -1,4 +1,4 @@
-package com;
+package com.Logicbuilding;
 
 public class Evenodd {
     public int no;

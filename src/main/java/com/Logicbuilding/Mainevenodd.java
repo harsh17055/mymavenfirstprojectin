@@ -1,4 +1,4 @@
-package com;
+package com.Logicbuilding;
 
 public class Mainevenodd {
     public static void main(String[] args) {

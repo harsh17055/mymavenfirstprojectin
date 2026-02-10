@@ -1,4 +1,4 @@
-package com.Swaaping;
+package com.angral.Swaaping;
 
 public class Swaap {
  public int num1;

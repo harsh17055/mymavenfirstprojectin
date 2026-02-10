@@ -1,4 +1,4 @@
-package com.encapsulation;
+ package com.encapsulation;
 
 public class Addition {
     private  int num1;
